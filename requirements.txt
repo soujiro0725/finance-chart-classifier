@@ -1,0 +1,10 @@
+ipython
+jupyter
+numpy
+pandas
+tensorflow
+matplotlib
+
+# for emacs
+python-language-server
+pyls-black
